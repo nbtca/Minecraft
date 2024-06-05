@@ -1,5 +1,4 @@
 # minecraft
-nbtca minecraft server
 # 我的世界进服教程（大家一起来玩吧！✿ヽ(°▽°)ノ✿）
 
 ## 前言
