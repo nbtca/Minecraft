@@ -4,17 +4,14 @@
 ## 前言
 本教程主要面向小白服务，有经验的请直接下载 1.20.4 版（基岩/java 版均可，首推 java 版，java 请选择 java21），并看进阶玩法。(=・ω・=)
 
-
 ## 服务器地址
 - **Java 版**：mc.nbtca.space:25565
 - **基岩版**：mc.nbtca.space:19132
-
 
 ## 小白请看这里：✧(≖◡≖✿)
 ### 我的世界教程
 （内含版本分辨，启动器介绍等，这里推荐使用 Pcl2 启动器）  
 [保姆级教程！6 分钟学会安装 MC/分辨各种版本，拒当伸手党！【我的世界】](https://www.bilibili.com/video/BV1og41137kf/?spm_id_from=333.337.search-card.all.click&vd_source=8dc15613db3715af52878600362ccba4))
-
 
 ### Pcl2 超详细下载教程
 [PCL2 启动器超详细下载教程](https://www.bilibili.com/video/BV1U34y1S71y/?spm_id_from=333.337.search-card.all.click&vd_source=8dc15613db3715af52878600362ccba4)
@@ -56,7 +53,6 @@
 ### Windows 版
 1. 微软商店购买正版下载。
    - 教程链接：[如何在电脑上安装我的世界基岩版国际版？国际版有哪些服务器？两分钟速速教会你！！【S1xthz】_单机游戏热门视频](https://www.bilibili.com/video/BV1bV4y1b7Tm/?spm_id_from=333.337.search-card.all.click&vd_source=8dc15613db3715af52878600362ccba4)
-   - )
 2. 网站下载：[MCDL 我的世界国际版下载](https://minebbs.com)（请选择 1.20.4 版本，不要选错了！）
    - 下载链接：[1.20.41 官方版下载丨最新版下载丨绿色版下载丨APP 下载-123 云盘](https://www.123pan.com/s/N6mrVv-iaG23.html)（请选择 x64 版本）
 
