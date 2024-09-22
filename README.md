@@ -1,8 +1,8 @@
-![](https://android-imgs.25pp.com/fs08/2018/12/08/4/bbaa2cc404433187e0b1b71f2507647e.jpg)
+![](https://d10mhq06fikmnr.cloudfront.net/cms-content/game-landingpages/minecraft/Gaming-Editions_Minecraft_Hero-min.jpg)
 # 我的世界进服教程（大家一起来玩吧！✿ヽ(°▽°)ノ✿）
 
 ## ![](https://th.bing.com/th?id=ODLS.438cc5b1-8410-4b9e-8267-6020371dbe9d&w=32&h=32&qlt=98&pcl=fffffa&o=6&pid=1.2) 前言
-本教程主要面向小白服务，有经验的请直接下载 **1.20.4** 版（基岩/java 版均可，首推 java 版，java 请选择 **java21**），并看进阶玩法。(=・ω・=)
+本教程主要面向小白服务，有经验的请直接下载 **1.21.1** 版（基岩/java 版均可，首推 java 版，java 请选择 **java21**），并看进阶玩法。(=・ω・=)
 
 ## ![](https://th.bing.com/th?id=ODLS.6896f733-4a83-4c4f-8539-0667d277290e&w=32&h=32&qlt=93&pcl=fffffa&o=6&pid=1.2) 服务器地址
 - **Java 版**：mc.nbtca.space:25565
@@ -28,7 +28,7 @@
 
 
 
-### *注意：我的世界版本：1.20.4*
+### *注意：我的世界版本：1.21.1*
 
 ---
 
@@ -39,7 +39,7 @@
 2. 点击下载
 3. 点击自动安装
 4. 点击“正式版”
-5. 选择“1.20.4”版本
+5. 选择“1.21.1”版本
 6. 开始安装
 
     [**安装教程视频**](https://www.bilibili.com/video/BV1og41137kf/?spm_id_from=333.337.search-card.all.click&vd_source=8dc15613db3715af52878600362ccba4)
@@ -50,8 +50,8 @@
 * #### Windows 版
   1. 微软商店购买正版下载。
       - 教程链接：[如何在电脑上安装我的世界基岩版国际版？国际版有哪些服务器？两分钟速速教会你！！【S1xthz】_单机游戏热门视频](https://www.bilibili.com/video/BV1bV4y1b7Tm/?spm_id_from=333.337.search-card.all.click&vd_source=8dc15613db3715af52878600362ccba4)
-  2. 网站下载：[MCDL 我的世界国际版下载](https://minebbs.com)（请选择 1.20.4 版本，不要选错了！）
-      - 下载链接：[1.20.41 官方版下载丨最新版下载丨绿色版下载丨APP 下载-123 云盘](https://www.123pan.com/s/N6mrVv-iaG23.html)（请选择 x64 版本）
+  2. 网站下载：[MCDL 我的世界国际版下载](https://minebbs.com)（请选择 1.21.1 版本，不要选错了！）
+      - 下载链接：[1.21.2 基岩版下载](https://cloud.nyan.run/s/3JrHP?path=%2F)（请选择 x64 版本）
 
 * #### 安卓版
    - 网站下载：[MCDL 我的世界国际版下载](https://minebbs.com)  
@@ -63,11 +63,6 @@
 
 
 ## 四、服务器拓展/进阶玩法：(・ω< )★
-* ### 领地搭建教程
-  - 建设你的家园！  [领地搭建教程](https://ssl.lunadeer.cn:14448/doc/23/)  
-    (备注：仅 java 版功能完全，基岩版仅可使用指令)
-
-
 
 *  ### 添加游戏中的光影，地图，物品管理器等来优化/美化你的 MC！
    - 可安装 forge/fabric 等模组，需要注意的是仅能安装信息显示类（如地图，JEI 物品管理器等本地 mod），优化类(如钠，锂等)以及光影（如 Optifine,Iris）
