@@ -4,6 +4,8 @@
 ## ![](https://th.bing.com/th?id=ODLS.438cc5b1-8410-4b9e-8267-6020371dbe9d&w=32&h=32&qlt=98&pcl=fffffa&o=6&pid=1.2) 前言
 本教程主要面向小白服务，有经验的请直接下载 **1.21.1** 版（基岩/java 版均可，首推 java 版，java 请选择 **java21**），并看进阶玩法。(=・ω・=)
 
+附：未加服务器QQ群的请尽快加哦[QQ群：221064637](https://qm.qq.com/q/mCqGc3KbGC)
+
 ## ![](https://th.bing.com/th?id=ODLS.6896f733-4a83-4c4f-8539-0667d277290e&w=32&h=32&qlt=93&pcl=fffffa&o=6&pid=1.2) 服务器地址
 - **Java 版**：mc.nbtca.space:25565
 - **基岩版**：mc.nbtca.space:19132
@@ -78,3 +80,7 @@
 Han_Rong  ![](https://th.bing.com/th?id=ODLS.e36f5f9f-281d-4679-bad0-5b1532ba64ec&w=32&h=32&qlt=95&pcl=fffffa&o=6&pid=1.2)
 
 2024.5.25
+
+网址导航：
+- [MC服务器官网](https://mc.nbtca.space/)
+- [计算机协会官网](https://www.nbtca.space/)
