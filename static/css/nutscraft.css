@@ -481,27 +481,44 @@ a:hover {
 }
 
 .Box5-Join-talk {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     margin-left: 70px;
+    gap: 40px;
 }
 
-.Box5-Join-talk a {
-    text-decoration: underline;
+.join-text {
+    flex: 1;
+    max-width: 400px;
 }
 
-.Box5-Join-talk h1,
-.Box5-Join-talk p {
-    margin-bottom: 20px;
+.join-qr {
+    width: 225px;
+    height: 275px;
+    border: 5px solid white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.8);
+    margin-right: 40px;
+    transition: all 0.3s;
 }
 
-.Box5-Join-talk h1::before {
-    content: '';
-    display: inline-block;
-    width: 40px;
-    height: 40px;
-    background-image: url(../image/bread.png);
-    background-size: 100% 100%;
-    vertical-align: middle;
-    margin-right: 10px;
+.join-qr:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.8);
+}
+
+@media screen and (max-width: 512px) {
+    .Box5-Join-talk {
+        flex-direction: column;
+        margin-left: 30px;
+        gap: 20px;
+    }
+    
+    .join-qr {
+        width: 120px;
+        height: 120px;
+        margin-right: 0;
+    }
 }
 
 /* 页脚 */
@@ -522,11 +539,9 @@ a:hover {
     float: left;
     width: 240px;
     height: 45px;
-    background-color: rgba(255, 255, 255, 0.3);
     margin: auto;
-    padding: 15px 0 0px;
+    padding: 0px 0 0px;
     border-radius: 0px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, .5);
     transition: all 0.3s;
     text-align: center;
 }
@@ -733,4 +748,20 @@ a:hover {
     .Box5-Join-talk {
         margin-left: 30px;
     }
+}
+
+/* 页脚按钮样式 */
+.footer-button {
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.4);
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.footer-button:hover {
+    background-color: white;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }

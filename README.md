@@ -10,7 +10,7 @@
 - **Java 版**：mc.nbtca.space:25565
 - **基岩版**：mc.nbtca.space:19132
 
-## 一、小白请看这里（基础知识）：✧(≖◡≖✿)
+## 一、小白请看这里（基础知识,请依次观看捏）：✧(≖◡≖✿)
 - ### 我的世界教程
     （内含版本分辨，启动器介绍等，这里推荐使用 PCL2 启动器）  
 [保姆级教程！6 分钟学会安装 MC/分辨各种版本，拒当伸手党！【我的世界】](https://www.bilibili.com/video/BV1og41137kf/?spm_id_from=333.337.search-card.all.click&vd_source=8dc15613db3715af52878600362ccba4)
