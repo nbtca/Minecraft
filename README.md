@@ -6,9 +6,15 @@
 
 附：未加服务器QQ群的请尽快加哦[QQ群：221064637](https://qm.qq.com/q/mCqGc3KbGC)
 
+kook 教程图文版链接：[https://kook.vip/0wivWu](https://kook.vip/0wivWu)
+
 ## ![](https://th.bing.com/th?id=ODLS.6896f733-4a83-4c4f-8539-0667d277290e&w=32&h=32&qlt=93&pcl=fffffa&o=6&pid=1.2) 服务器地址
-- **Java 版**：mc.nbtca.space:25565
-- **基岩版**：mc.nbtca.space:19132
+* #### 内网：
+  - **Java 版**：mc.nbtca.space:25565
+  - **基岩版**：mc.nbtca.space:19132
+* #### 公网：
+  - **Java 版**：orangedog.nbtca.space:25565
+  - **基岩版**：orangedog.nbtca.space:19132
 
 ## 一、小白请看这里（基础知识,请依次观看捏）：✧(≖◡≖✿)
 - ### 我的世界教程
@@ -32,7 +38,7 @@
 
 ### *注意：我的世界版本：1.21.1*
 
----
+
 
 
 ##  二、我的世界安装
@@ -58,7 +64,7 @@
 * #### 安卓版
    - 网站下载：[MCDL 我的世界国际版下载](https://minebbs.com)  
 
----
+
 
 ## 三、进服流程
     启动游戏 -> 点击 “多人游戏” -> 点击“添加服务器” -> 输入服务器地址并连接
@@ -68,10 +74,23 @@
 
 *  ### 添加游戏中的光影，地图，物品管理器等来优化/美化你的 MC！
    - 可安装 forge/fabric 等模组，需要注意的是仅能安装信息显示类（如地图，JEI 物品管理器等本地 mod），优化类(如钠，锂等)以及光影（如 Optifine,Iris）
+   - 如果不想搞这些麻烦的东西，我们也为你准备了数据包，只需去QQ群或者计协水管下载即可。内含小地图、光影等，只需下载解压即可享受RTX ON般的MC生活awa。
+*  ### 计协水管数据包下载地址：[https://cloud.nbtca.space/Toilet/我的世界_Minecraft](https://cloud.nbtca.space/Toilet/我的世界_Minecraft)
+   - 教程见QQ群公告或者kook教程。
 
----
+## 五、可能出现的问题以及解决方法
+* ### 连接丢失，并且出现下列提示
+![](https://cloud.nbtca.space/d/guest/Toilet/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C_Minecraft/Pictures/Solutions/Connection%20Lost.jpg)
+请前往QQ群或者计算机协会水管下载数据包
 
-## 五、结语
+计协水管数据包下载地址：[https://cloud.nbtca.space/Toilet/我的世界_Minecraft](https://cloud.nbtca.space/Toilet/我的世界_Minecraft)
+
+* ### 其余连接失败等问题
+请首先检查连接地址是否正确（确认公网/内网地址是否正确），以及版本是否对应。如仍旧无法连接，请观看下面视频寻找解决方法，或者在计协我的世界QQ群中截图提问。
+
+视频：[【mc开服】教你解决各种联机报错 超全超细致](https://www.bilibili.com/video/BV13g41157mP)
+
+## 六、结语
 好，那么以上教程就到这里(*°▽°*)八 (*°▽°*)♪，如果还有什么不会的，可以尽情在群里 **@gxh**，祝大家游玩愉快！
 
 另外，我的世界模组服还在开发中，包含 200+mods，可玩性大大提高，敬请期待！(=・ω・=)
@@ -82,5 +101,6 @@ Han_Rong  ![](https://th.bing.com/th?id=ODLS.e36f5f9f-281d-4679-bad0-5b1532ba64e
 2024.5.25
 
 网址导航：
-- [MC服务器官网](https://mc.nbtca.space/)
-- [计算机协会官网](https://www.nbtca.space/)
+- [MC服务器官网](httpss://mc.nbtca.space)
+- [计算机协会官网](https://www.nbtca.space)
+- [计算机协会云盘](https://cloud.nbtca.space)
