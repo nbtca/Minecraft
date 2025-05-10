@@ -80,7 +80,7 @@ kook 教程图文版链接：[https://kook.vip/0wivWu](https://kook.vip/0wivWu)
 
 ## 五、可能出现的问题以及解决方法
 * ### 连接丢失，并且出现下列提示
-![](https://cloud.nbtca.space/d/guest/Toilet/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C_Minecraft/Pictures/Solutions/Connection%20Lost.jpg)
+![](./static/picture/Connection%20Lost.jpg)
 请前往QQ群或者计算机协会水管下载数据包
 
 计协水管数据包下载地址：[https://cloud.nbtca.space/Toilet/我的世界_Minecraft](https://cloud.nbtca.space/Toilet/我的世界_Minecraft)
