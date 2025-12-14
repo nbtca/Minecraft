@@ -109,8 +109,11 @@ export default defineUserConfig({
         },
       ],
     },
-    repo: '',
-    editLink: false,
+    repo: 'nbtca/Minecraft',
+    editLink: true,
+    editLinkText: '在 GitHub 上编辑此页',
+    docsDir: 'docs',
+    docsBranch: 'main',
   }),
 
   bundler: viteBundler(),
