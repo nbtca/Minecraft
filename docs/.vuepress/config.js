@@ -6,6 +6,7 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: 'Minecraft 生电服务器 Wiki',
   description: '一个专注于 Minecraft 生电技术的知识库',
+  base: '/Minecraft/',
 
   head: [],
 
