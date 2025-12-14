@@ -113,7 +113,7 @@ export default defineUserConfig({
     editLink: true,
     editLinkText: '在 GitHub 上编辑此页',
     docsDir: 'docs',
-    docsBranch: 'main',
+    docsBranch: 'Wiki',
   }),
 
   bundler: viteBundler(),
