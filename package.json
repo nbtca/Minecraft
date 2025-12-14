@@ -1,0 +1,25 @@
+{
+  "name": "minecraft-redstone-wiki",
+  "version": "1.0.0",
+  "description": "Minecraft 生电服务器 Wiki",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "keywords": [
+    "minecraft",
+    "redstone",
+    "wiki",
+    "vuepress"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.0",
+    "@vuepress/theme-default": "^2.0.0-rc.0",
+    "sass-embedded": "^1.96.0",
+    "vue": "^3.3.4",
+    "vuepress": "^2.0.0-rc.0"
+  }
+}
